@@ -1,0 +1,14 @@
+<style>
+  .tile {
+    width: 25%;
+    height: 33%;
+    background-color: #eee;
+    text-align: center;
+    font-color: #000;
+    border: 1px solid #ddd;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+  }
+</style>
